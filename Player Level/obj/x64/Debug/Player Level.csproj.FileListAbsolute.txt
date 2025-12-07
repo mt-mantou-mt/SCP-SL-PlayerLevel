@@ -1,0 +1,98 @@
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Player Level.pdb
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\0Harmony.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.API.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CreditTags.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CustomItems.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CustomRoles.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Events.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Loader.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Permissions.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\HintServiceMeow-Exiled.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\LabAPI.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.CoreModule.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\x64\Debug\Player L.209775C8.Up2Date
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.pdb
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\CommandSystem.Core.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Mirror.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\YamlDotNet.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Json.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Player Level.pdb
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\0Harmony.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\CommandSystem.Core.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.API.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CreditTags.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CustomItems.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.CustomRoles.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Events.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Loader.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Exiled.Permissions.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\HintServiceMeow-Exiled.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\LabAPI.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Mirror.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.IO.Pipelines.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Json.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.CoreModule.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\YamlDotNet.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.IO.Pipelines.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Text.Json.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\obj\x64\Debug\Player L.209775C8.Up2Date
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\ㅤ\杂物\Exiled\Player Level\obj\x64\Debug\Player Level.pdb

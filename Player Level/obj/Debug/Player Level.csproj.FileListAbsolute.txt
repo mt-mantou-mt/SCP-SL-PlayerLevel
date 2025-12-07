@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Player Level.pdb
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\0Harmony.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Assembly-CSharp.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.API.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.CreditTags.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.CustomItems.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.CustomRoles.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.Events.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.Loader.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\Exiled.Permissions.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\LabAPI.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\System.Buffers.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\System.Memory.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\Debug\Player Level.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\Debug\Player Level.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\Debug\Player L.209775C8.Up2Date
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\Debug\Player Level.dll
+C:\Users\Administrator\Desktop\杂物\Exiled\Player Level\obj\Debug\Player Level.pdb
